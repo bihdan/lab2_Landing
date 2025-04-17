@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bihdan.github.io/lab2_Landing/sitemap.xml
